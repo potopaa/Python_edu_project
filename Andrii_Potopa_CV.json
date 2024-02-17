@@ -1,0 +1,33 @@
+{
+    "Today": "17/02/2024",
+    "Name": "Andrii Potopa",
+    "Birth Date": "09/09/1981",
+    "Age": 42,
+    "Marital Status": "\u043e\u0434\u0440\u0443\u0436",
+    "Kids Ages": [
+        9,
+        10
+    ],
+    "Education": [
+        "finance",
+        "law"
+    ],
+    "Fields of Experience": [
+        "banking",
+        "compliance",
+        "taxation",
+        "legaltech",
+        "fintech",
+        "DeFi"
+    ],
+    "Languages": [
+        "ukrainian",
+        "russian",
+        "english",
+        "polish"
+    ],
+    "Programming Languages": [
+        "sql",
+        "python"
+    ]
+}
