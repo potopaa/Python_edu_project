@@ -29,7 +29,7 @@ class Resume:
                 print("Невірний формат. Спробуйте ще раз.")
 
         marital_status_input = input("Введіть ваш сімений статус (одруж/неодруж): ").lower()
-        self.marital_status = marital_status_input if marital_status_input in ['одруж', 'неодруж'] else 'невідомо'
+        self.marital_status = marital_status_input if marital_status_input in ['married', 'single'] else 'unknown'
 
         kids_ages_input = input("Введіть вік Ваших дітей (якщо маєте) через пробіл: ")
         self.kids_ages = set(map(int, kids_ages_input.split()))
